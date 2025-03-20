@@ -19,7 +19,7 @@ The dataset used in this project is the **Census Income Dataset** (also known as
    - Visualizing distributions of numerical and categorical variables
    - Identifying correlations between features
 3. **Model Training & Evaluation**
-   - Models used: Logistic Regression, Decision Tree, Random Forest, XGBoost, and LightGBM
+   - Models used: Random Forest, XGBoost, SVM and LightGBM
    - Performance metrics: Accuracy, Precision, Recall, F1-score
    - Hyperparameter tuning for best performance
 4. **Deployment**
